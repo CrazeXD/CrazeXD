@@ -14,7 +14,7 @@ I'm Craze, a passionate high school student with a love for coding and problem-s
 
 ## Contact Me
 
-- 📧 Email: [your-email@example.com](mailto:CrazeXDLOL@proton.me)
+- 📧 Email: [CrazeXDLOL@proton.me](mailto:CrazeXDLOL@proton.me)
 - 🐦 Twitter: [@CrazeKid](https://twitter.com/CrazeKid)
 - 🌟 GitHub: [CrazeXD](https://github.com/CrazeXD)
 
