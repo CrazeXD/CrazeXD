@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Craze, a passionate high school student with a love for coding and problem-solving. Welcome to my GitHub profile!
+I'm Rishabh, a passionate high school student with a love for coding and problem-solving. Welcome to my GitHub profile!
 
 ## About Me
 
@@ -13,5 +13,5 @@ I'm Craze, a passionate high school student with a love for coding and problem-s
 
 ## Contact Me
 
-- 📧 Email: [CrazeXDLOL@proton.me](mailto:CrazeXDLOL@proton.me)
+- 📧 Email: [26rishabhgarg@gmail.com](mailto:26rishabhgarg@gmail.com)
 - 🌟 GitHub: [CrazeXD](https://github.com/CrazeXD)
